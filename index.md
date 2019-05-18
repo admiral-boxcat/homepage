@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Robinson Deckert
 
-You can use the [editor on GitHub](https://github.com/admiral-boxcat/admiral-boxcat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m some kind of person with a website living and working in Brooklyn.
 
-### Markdown
+[LinkedIn](https://www.linkedin.com/in/robinsondeckert/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Click on the menu to see a list of content that I haven’t updated in a while. This may change soon, or not. Secret projects, and all that.
 
-```markdown
-Syntax highlighted code block
+### Code
+#### Artifact Data
+https://smile.amazon.com/Holodeckert-Artifact-Data/dp/B07L346QP4
 
-# Header 1
-## Header 2
-### Header 3
+### Animation
 
-- Bulleted
-- List
+[![Junkbots](http://img.youtube.com/vi/A1JJk3hM2NE/0.jpg)](https://www.youtube.com/watch?v=A1JJk3hM2NE "Junkbots")
+[![Maker Faire – Interactive Pixilation](http://img.youtube.com/vi/JAfjwxbbZN0/0.jpg)](https://www.youtube.com/watch?v=JAfjwxbbZN0 "Maker Faire – Interactive Pixilation")
+[![Project 30 in 30 - Mr. Tragedy](http://img.youtube.com/vi/mi2G2P3LhKk/0.jpg)](https://www.youtube.com/watch?v=mi2G2P3LhKk "Project 30 in 30 - Mr. Tragedy")
+[![Project 30 in 30 - Sake Tsunami](http://img.youtube.com/vi/kwKEffVuOLk/0.jpg)](https://www.youtube.com/watch?v=kwKEffVuOLk "Project 30 in 30 - Sake Tsunami")
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Photography
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Revisiting NYC 20 Years Later
 
-### Jekyll Themes
+https://youtu.be/5emkukhHjxw
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/admiral-boxcat/admiral-boxcat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+####Documentary
 
-### Support or Contact
+![](http://robinsondeckert.com/wp-content/uploads/2016/02/Recycling1-198x300.jpg)
+![](http://robinsondeckert.com/wp-content/uploads/2016/02/Recycling2-198x300.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Squares
+
+![](http://robinsondeckert.com/wp-content/uploads/2016/02/Square4.jpg)
+![](http://robinsondeckert.com/wp-content/uploads/2016/02/Square3.jpg)
+![](http://robinsondeckert.com/wp-content/uploads/2016/02/Square2.jpg)
+![](http://robinsondeckert.com/wp-content/uploads/2016/02/Square1.jpg)
