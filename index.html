@@ -1,0 +1,48 @@
+---
+layout: default
+title: "home"
+description: "The offical website on the internet."
+---
+
+<img src="{% asset 'about.jpg' @path %}" alt="About Nielsen Ramon header image" />
+  <h1>Hi there 👋😄</h1>
+  <p>
+   I’m some kind of person with a website living and working in NYC, learning and tinkering.
+  <br/><br/>
+   Originally went to school for photography, also studied animation, ended up in the world of software development. I like knowing a bit about a lot of things, because it's fun and everything makes more sense with context.
+  <br/><br/>
+   Currently focusing on: <em>&lt;code&gt;</em><strong>Node.js</strong><em>&lt;/code&gt;</em>
+  </p>
+
+<ul class="article-list">
+  {% for post in paginator.posts %}
+    <li class="article-list-item {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+      <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
+        <h5>
+          {{ post.title }}
+          {% include svg-icon.html icon="arrow-right" %}
+        </h5>
+      </a>
+      <p>
+        {% if post.description %}
+          {{ post.description }}  
+        {% else %}
+          {{ post.excerpt }}
+        {% endif %}
+      </p>
+      <div class="article-list-footer">
+
+      </div>
+    </li>
+  {% endfor %}
+  {% if paginator.total_pages > 1 %}
+    <li class="article-pagination {% if site.settings.scrollappear_enabled %}scrollappear{% endif %}">
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="article-pagination-left">{% include svg-icon.html icon="arrow-left" %} Older posts</a>
+      {% endif %}
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="article-pagination-right">Newer posts {% include svg-icon.html icon="arrow-right" %}</a>
+      {% endif %}
+    </li>
+  {% endif %}
+</ul>
