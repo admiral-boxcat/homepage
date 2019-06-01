@@ -3,7 +3,7 @@
 blog_theme: dark # Or use dark
 name: Robinson Deckert
 paginate: 25
-url: https://admiral-boxcat.github.io/homepage/ # add your site url (format: https://example.com)
+url: https://robinsondeckert.com # add your site url (format: https://example.com)
 
 
 # Optional settings
